@@ -1,61 +1,69 @@
-# Hi there, I'm Alejandro Martínez! 👋
+# 👋 Hi, my name is Alejandro Martínez, but you can call me Alex.
 
-I'm a Mechatronics Engineer exploring the exciting intersections of AI, automation, and data. With a Graduate Certificate in Artificial Intelligence Software Development, I'm passionate about building intelligent solutions and extracting insights from data. I'm actively seeking opportunities where I can apply my skills in AI/ML, Data Analysis, and Data Science.
+**Mechatronics Engineer | AI & Data Enthusiast | Automation Innovator**
 
-## About Me
-
-* **Education:**
-    * [cite_start] Graduate Certificate in Artificial Intelligence Software Development (AISD) - Algonquin College, Ottawa, ON [cite: 5]
-    * [cite_start] BEng in Mechatronics Engineering - Autonomous University of San Luis Potosi, México [cite: 5]
-    * [cite_start] BA in Management - City University of Seattle, USA [cite: 5, 6]
-* [cite_start] **Experience:** My background includes designing and implementing SCADA systems, creating automation solutions using various programming languages, and enhancing engineering designs through simulation and 3D modeling. [cite: 12, 13, 17]
-* **Current Focus:** Building robust AI/ML models, developing automation tools, and performing in-depth data analysis.
-* **Open to:** New challenges, collaborations, and opportunities in AI, Data Science, and Data Analysis.
-
-## Technical Skills
-
-* [cite_start] **Programming:** Python [cite: 20][cite_start], SQL [cite: 20][cite_start], C# [cite: 20][cite_start], JavaScript [cite: 20][cite_start], C++ [cite: 20]
-* [cite_start] **AI & ML:** Scikit-learn [cite: 21][cite_start], TensorFlow [cite: 21][cite_start], PyTorch [cite: 21][cite_start], Open-mmlab [cite: 21]
-* [cite_start] **Data Analytics & Big Data:** Pandas [cite: 22][cite_start], NumPy [cite: 22][cite_start], Matplotlib [cite: 22][cite_start], Power BI [cite: 22][cite_start], Tableau [cite: 22]
-* [cite_start] **Cloud Platforms:** Microsoft Azure (Azure ML, Cognitive Services) [cite: 22][cite_start], AWS [cite: 22]
-* [cite_start] **Software & Tools:** Git [cite: 22][cite_start], Docker [cite: 22][cite_start], Kubernetes [cite: 22][cite_start], Linux [cite: 22][cite_start], Agile/Scrum [cite: 22]
-
-## Projects
-
-Here are some of my key projects, showcasing my abilities in AI, automation, and data. (Note: Links will be added as repositories are made public.)
-
-* **Machine Learning Analysis of Dallas Police Incidents**
-    * [cite_start] *Description:* Applied CRISP-DM methodology to analyze real-world crime data, performing clustering (K-Means), anomaly detection (LOF, ISF), and classification (k-NN, Decision Trees, Random Forest). [cite: 27]
-    * *Technologies:* Python, Scikit-learn, Pandas, NumPy, Matplotlib.
-* **Simulation and Implementation of iRobot Create 3 Using ROS2**
-    * [cite_start] *Description:* Designed and implemented a Python ROS2-based simulation and control system for the iRobot Create 3, enabling autonomous navigation and real-time sensor integration. [cite: 34]
-    * *Technologies:* Python, ROS2, GitHub, Linux.
-* **Notion API Integration and Automation through Python**
-    * [cite_start] *Description:* Developed an automated workflow using Python and the Notion API for seamless data synchronization, task tracking, and dynamic content updates within Notion workspaces. [cite: 38]
-    * *Technologies:* Python, Notion API.
-* **Robotic Arm and Mobile Robot**
-    * [cite_start] *Description:* Created a Matlab interface to control a robotic arm and designed/implemented wireless control, sensor reading, and feedback for a mobile robot using Python. [cite: 42, 43]
-    * *Technologies:* Matlab, Python.
-
-## Connect with Me
-
-* [cite_start] **Email:** mart1439@algonquinlive.com [cite: 2]
-* [cite_start] **LinkedIn:** [linkedin.com/in/alejandro-mtz](https://www.linkedin.com/in/alejandro-mtz) [cite: 3]
-* [cite_start] **Location:** Ottawa, Ontario, Canada [cite: 1]
+I’m passionate about building intelligent systems that merge AI, automation, and data analytics. With a Graduate Certificate in Artificial Intelligence Software Development and hands-on engineering experience, I’m exploring opportunities to design impactful AI/ML models, create automation tools, and uncover insights through data.
 
 ---
 
-<!--
-**AlexMtzRmz0212/AlexMtzRmz0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **Graduate Certificate in Artificial Intelligence Software Development (AISD)** – Algonquin College, Ottawa, ON [5]  
+- **BEng in Mechatronics Engineering** – Autonomous University of San Luis Potosi, México [5]  
+- **BA in Management** – City University of Seattle, USA [5][6]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **SCADA & Automation Systems:** Designed and implemented SCADA systems and automated processes using multiple programming languages. [12][13][17]  
+- **Simulation & 3D Modeling:** Enhanced engineering designs with simulations and advanced 3D modeling tools.  
+- **Software Development:** Built automation tools, data-driven applications, and proof-of-concept AI solutions.  
+
+---
+
+## 🚀 Technical Skills
+
+**Programming:** Python [20], SQL, C#, JavaScript, C++  
+**AI & ML:** Scikit-learn [21], TensorFlow, PyTorch, Open-mmlab  
+**Data Analytics & BI:** Pandas [22], NumPy, Matplotlib, Power BI, Tableau  
+**Cloud Platforms:** Microsoft Azure (Azure ML, Cognitive Services), AWS  
+**Software & Tools:** Git, Docker, Kubernetes, Linux, Agile/Scrum  
+
+---
+
+## 🔬 Featured Projects
+- **Machine Learning Analysis of Dallas Police Incidents**  
+  Applied CRISP-DM methodology for clustering (K-Means), anomaly detection (LOF, ISF), and classification (k-NN, Decision Trees, Random Forest). [27]
+
+- **ROS2 Simulation of iRobot Create 3**  
+  Developed a Python ROS2-based simulation and autonomous navigation system for iRobot Create 3. [34]
+
+- **Notion API Automation with Python**  
+  Automated data synchronization, task tracking, and content updates within Notion workspaces. [38]
+
+- **Robotic Arm & Mobile Robot Control**  
+  Created a Matlab interface and Python-based wireless control system with real-time feedback. [42]
+
+---
+
+## 📬 Connect with Me
+- **Email:** [alejandro.martinez.rmz97@gmail.com](mailto:alejandro.martinez.rmz97@gmail.com) [2]  
+- **LinkedIn:** [linkedin.com/in/alejandro-mtz](https://www.linkedin.com/in/alejandro-mtz) [3]  
+- **Location:** Ottawa, Ontario, Canada [1]
+
+---
+
+[1]: https://maps.app.goo.gl/JxyaTAvNVqPJcLGf7
+[2]: mailto:alejandro.martinez.rmz97@gmail.com  
+[3]: https://www.linkedin.com/in/alejandro-mtz  
+[5]: https://www.algonquincollege.com/sat/program/artificial-intelligence-software-development/  
+[6]: https://www.cityu.edu/programs-overview/management/  
+[12]: https://en.wikipedia.org/wiki/SCADA  
+[13]: https://www.geeksforgeeks.org/what-is-industrial-automation/  
+[17]: https://www.autodesk.com/solutions/3d-modeling-software  
+[20]: https://www.python.org/  
+[21]: https://scikit-learn.org/  
+[22]: https://pandas.pydata.org/  
+[27]: https://en.wikipedia.org/wiki/CRISP-DM  
+[34]: https://www.irobot.com/irobotcreate3  
+[38]: https://developers.notion.com/  
+[42]: https://www.mathworks.com/products/matlab.html  
