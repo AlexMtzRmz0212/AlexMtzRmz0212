@@ -1,69 +1,135 @@
-# 👋 Hi, my name is Alejandro Martínez, but you can call me Alex.
+<!-- ACCENT COLOR: ffffff — find and replace across README.md and assets/ to recolor the whole profile -->
 
-**Mechatronics Engineer | AI & Data Enthusiast | Automation Innovator**
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Alex Martínez, mechatronics engineer building autonomous systems" />
+  <br/><br/>
+  <a href="https://alex.bittobyte.qzz.io"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/alejandro-mtz"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+  <a href="mailto:alejandro.martinez.rmz97@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>
+  <a href="https://discord.com/users/alejandromartinez7018"><img src="assets/btn-discord.svg" height="46" alt="Discord" /></a>
+</div>
 
-I’m passionate about building intelligent systems that merge AI, automation, and data analytics. With a Graduate Certificate in Artificial Intelligence Software Development and hands-on engineering experience, I’m exploring opportunities to design impactful AI/ML models, create automation tools, and uncover insights through data.
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+<div align="center"><img src="assets/h-about.svg" width="100%" alt="About Me" /></div>
 
-## 🎓 Education
-- **Graduate Certificate in Artificial Intelligence Software Development (AISD)** – Algonquin College, Ottawa, ON [5]  
-- **BEng in Mechatronics Engineering** – Autonomous University of San Luis Potosi, México [5]  
-- **BA in Management** – City University of Seattle, USA [5][6]
+I'm a mechatronics engineer who builds autonomous systems. I spot manual, tangled processes, model how they work, and build software that runs them on its own, from SCADA on the factory floor to AI/ML pipelines and full-stack apps. I work under the **BitToByte** brand.
 
----
+<p>
+<img src="assets/icons/pin.svg" width="20" height="20" align="absmiddle" alt=""> <b>Based in:</b> Ottawa-Gatineau, Canada<br/>
+<img src="assets/icons/terminal.svg" width="20" height="20" align="absmiddle" alt=""> <b>I use daily:</b> <code>python</code> <code>sql</code> <code>react</code> <code>typescript</code> <code>github actions</code><br/>
+<img src="assets/icons/target.svg" width="20" height="20" align="absmiddle" alt=""> <b>Currently working on:</b> AI-driven data pipelines (an automated newsletter engine using the Claude API) and my BitToByte portfolio ecosystem<br/>
+<img src="assets/icons/trend.svg" width="20" height="20" align="absmiddle" alt=""> <b>Currently learning:</b> French and German, plus deeper ML with PyTorch and RAG systems<br/>
+<img src="assets/icons/chat.svg" width="20" height="20" align="absmiddle" alt=""> <b>Ask me about:</b> SCADA and industrial automation, RAG and LLM pipelines, data engineering, GA4 analytics<br/>
+<img src="assets/icons/users.svg" width="20" height="20" align="absmiddle" alt=""> <b>Looking to collaborate on:</b> open-source AI automation and data pipelines (RAG, LLM workflows), civic-tech and data-for-good analytics, SCADA/IoT data tooling<br/>
+<img src="assets/icons/lifebuoy.svg" width="20" height="20" align="absmiddle" alt=""> <b>Looking for help with:</b> finding data, automation, or AI roles in the Ottawa-Gatineau area, and connecting with people in those fields<br/>
+<img src="assets/icons/zap.svg" width="20" height="20" align="absmiddle" alt=""> <b>Fun fact:</b> I've gone from co-managing a family restaurant to tuning e-bike controllers to building AI pipelines that write and send a newsletter with no human in the loop
+</p>
 
-## 💼 Experience
-- **SCADA & Automation Systems:** Designed and implemented SCADA systems and automated processes using multiple programming languages. [12][13][17]  
-- **Simulation & 3D Modeling:** Enhanced engineering designs with simulations and advanced 3D modeling tools.  
-- **Software Development:** Built automation tools, data-driven applications, and proof-of-concept AI solutions.  
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+<div align="center"><img src="assets/h-projects.svg" width="100%" alt="Featured Projects" /></div>
 
-## 🚀 Technical Skills
+<img src="assets/cards/express-entry.svg" width="100%" alt="Express Entry Draws Analysis: live data product" />
 
-**Programming:** Python [20], SQL, C#, JavaScript, C++  
-**AI & ML:** Scikit-learn [21], TensorFlow, PyTorch, Open-mmlab  
-**Data Analytics & BI:** Pandas [22], NumPy, Matplotlib, Power BI, Tableau  
-**Cloud Platforms:** Microsoft Azure (Azure ML, Cognitive Services), AWS  
-**Software & Tools:** Git, Docker, Kubernetes, Linux, Agile/Scrum  
+A live data product that tracks and analyzes Express Entry draws. A Python ETL pipeline automated with GitHub Actions loads a PostgreSQL database, and a React dashboard turns the data into something anyone can explore.<br/>
+<img src="assets/icons/link.svg" width="16" height="16" align="absmiddle" alt=""> <a href="https://expressentry.bittobyte.qzz.io">expressentry.bittobyte.qzz.io</a>
 
----
+<img src="assets/cards/newsletter.svg" width="100%" alt="Autonomous Newsletter Pipeline: zero manual steps" />
 
-## 🔬 Featured Projects
-- **Machine Learning Analysis of Dallas Police Incidents**  
-  Applied CRISP-DM methodology for clustering (K-Means), anomaly detection (LOF, ISF), and classification (k-NN, Decision Trees, Random Forest). [27]
+Part of the <a href="https://fedethics.ca">fedethics.ca</a> website. A daily GitHub Actions job scrapes and ranks articles, then every two weeks the Claude API selects the stories, writes the issue, and Resend sends it, with no manual step from ingestion to send. Also includes GA4/GTM tracking with Consent Mode v2.<br/>
+<img src="assets/icons/link.svg" width="16" height="16" align="absmiddle" alt=""> <a href="https://fedethics.ca">fedethics.ca</a>
 
-- **ROS2 Simulation of iRobot Create 3**  
-  Developed a Python ROS2-based simulation and autonomous navigation system for iRobot Create 3. [34]
+<img src="assets/cards/northwind.svg" width="100%" alt="Northwind Utilities: 25K+ complaints analyzed" />
 
-- **Notion API Automation with Python**  
-  Automated data synchronization, task tracking, and content updates within Notion workspaces. [38]
+Hack the Hill III (CGI challenge). A shared case record for customers, employees, and managers, replacing four disconnected systems. Built with React 19, TypeScript, and Supabase/PostgreSQL, with role rules enforced in the database through Row-Level Security. Includes a pandas analysis of 25K+ complaints and a pitch deck built inside the app.
 
-- **Robotic Arm & Mobile Robot Control**  
-  Created a Matlab interface and Python-based wireless control system with real-time feedback. [42]
+<img src="assets/cards/supply-chains.svg" width="100%" alt="Verified Canadian Supply Chains: 97% verifier score" />
 
----
+One of 10 teams selected nationally. A FastAPI + React prototype that verifies Made-in-Canada claims from Ed25519-signed supplier attestation chains and flags anomalies. The verifier scored 97% on a 1,000-row labeled test set.
 
-## 📬 Connect with Me
-- **Email:** [alejandro.martinez.rmz97@gmail.com](mailto:alejandro.martinez.rmz97@gmail.com) [2]  
-- **LinkedIn:** [linkedin.com/in/alejandro-mtz](https://www.linkedin.com/in/alejandro-mtz) [3]  
-- **Location:** Ottawa, Ontario, Canada [1]
+<img src="assets/cards/hiretechgenius.svg" width="100%" alt="HireTechGenius: AI interview evaluation web app" />
 
----
+A Flask + React app that evaluates interview transcripts with LLMs and generates PDF reports.
 
-[1]: https://maps.app.goo.gl/JxyaTAvNVqPJcLGf7
-[2]: mailto:alejandro.martinez.rmz97@gmail.com  
-[3]: https://www.linkedin.com/in/alejandro-mtz  
-[5]: https://www.algonquincollege.com/sat/program/artificial-intelligence-software-development/  
-[6]: https://www.cityu.edu/programs-overview/management/  
-[12]: https://en.wikipedia.org/wiki/SCADA  
-[13]: https://www.geeksforgeeks.org/what-is-industrial-automation/  
-[17]: https://www.autodesk.com/solutions/3d-modeling-software  
-[20]: https://www.python.org/  
-[21]: https://scikit-learn.org/  
-[22]: https://pandas.pydata.org/  
-[27]: https://en.wikipedia.org/wiki/CRISP-DM  
-[34]: https://www.irobot.com/irobotcreate3  
-[38]: https://developers.notion.com/  
-[42]: https://www.mathworks.com/products/matlab.html  
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center"><img src="assets/h-stack.svg" width="100%" alt="Tech Stack" /></div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/l-languages.svg" height="34" alt="Languages" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=py,cs,cpp,js,ts,html,bash&theme=dark&perline=4" alt="Python, C#, C++, JavaScript, TypeScript, HTML, Bash" /><br/>
+<sub>SQL</sub>
+</td>
+<td align="center" width="50%">
+<img src="assets/l-ai.svg" height="34" alt="AI / ML and Data" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda&theme=dark&perline=4" alt="TensorFlow, PyTorch, scikit-learn, Anaconda" /><br/>
+<sub>Keras · Hugging Face · pandas · NumPy · Matplotlib · Power BI · Tableau</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="assets/l-web.svg" height="34" alt="Web and Backend" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,flask,django,postgres,supabase&theme=dark&perline=4" alt="React, Vite, FastAPI, Flask, Django, PostgreSQL, Supabase" /><br/>
+<sub>Streamlit · Jinja</sub>
+</td>
+<td align="center" width="50%">
+<img src="assets/l-tools.svg" height="34" alt="Tools and Automation" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,githubactions,ros,notion,postman&theme=dark&perline=4" alt="Git, GitHub Actions, ROS, Notion, Postman" />
+</td>
+</tr>
+</table>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center"><img src="assets/h-stats.svg" width="100%" alt="GitHub Stats" /></div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexMtzRmz0212/AlexMtzRmz0212/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexMtzRmz0212/AlexMtzRmz0212/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AlexMtzRmz0212/AlexMtzRmz0212/output/github-snake.svg" />
+  </picture>
+</p>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="100%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=AlexMtzRmz0212&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=Bits%20%26%20Bytes&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&border_radius=18" />
+</td>
+<td align="center" width="50%">
+<img width="100%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlexMtzRmz0212&layout=compact&langs_count=6&custom_title=Polyglottism&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=18" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=AlexMtzRmz0212&background=0d1117&border=30363d&border_radius=18&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e" />
+</td>
+<td align="center" width="50%">
+<img width="100%" alt="Top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=AlexMtzRmz0212&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexMtzRmz0212&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" />
+</td>
+</tr>
+</table>
+</div>
+
+<details>
+<summary><b>Detailed metrics</b></summary>
+<br/>
+<p align="center">
+  <img src="github-metrics.svg" alt="Detailed GitHub metrics" width="100%" />
+</p>
+</details>
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="BitToByte" />
