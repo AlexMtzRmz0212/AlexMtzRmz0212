@@ -1,5 +1,6 @@
 <!-- ACCENT COLOR: ffffff — find and replace across README.md and assets/ to recolor the whole profile -->
 
+
 <div align="center">
   <a href="https://alex.bittobyte.qzz.io"><img src="assets/header.svg" width="100%" alt="Alex Martínez, mechatronics engineer building autonomous systems" /></a>
   <br/><br/>
